@@ -20,3 +20,18 @@ Note: To finish creating your sandwich, use
         "addIngredientToTop", "addIngredientToBottom",
         "changeIngredient", and/or "removeIngredient"
 */
+
+let p2Cheese = getNewCheeseSlice();
+let p2Chicken = getNewChickenPatty();
+let p2BottomBun = getNewBottomBurgerBun();
+
+
+addIngredientToBottom(p2Cheese);
+addIngredientToBottom(p2Chicken);
+addIngredientToBottom(p2BottomBun);
+
+
+
+
+
+
